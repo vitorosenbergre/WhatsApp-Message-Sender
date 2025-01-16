@@ -65,4 +65,4 @@ script.py         # Script principal
 
 ## Autor
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por [Vitor Rosenbergre].
