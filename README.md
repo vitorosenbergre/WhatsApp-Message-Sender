@@ -36,7 +36,7 @@ Este script automatiza o envio de mensagens pelo WhatsApp Web usando Python. Ele
 
    - Rode o script com o comando:
      ```bash
-     python script.py
+     python appPorKey.py
      ```
 
 4. **Verificação de Erros:**
